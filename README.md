@@ -60,6 +60,28 @@ My contributions focused on:
 
 ---
 
+### ⚡ Lidar Robot Control System
+High-performance robot control and LiDAR visualization system implemented **without ROS**, focusing on low-level system design.
+
+Key features:
+
+- TCP/IP-based communication with robot (odometry, control, sensors)
+- Multithreaded architecture for concurrent control and data processing
+- Real-time LiDAR visualization using `matplotlib-cpp`
+- Odometry-based feedback control for autonomous navigation
+- Efficient data handling using mutexes, queues, and synchronization primitives
+
+Tech highlights:
+
+- C++ (modern, multithreading)
+- Networking (sockets, streaming)
+- Concurrency & synchronization
+- Real-time data processing
+
+🔗 https://github.com/KarimEl-Harery/lidar-robot-control-system
+
+---
+
 ## 🛠 Tech Stack
 
 **Languages**
