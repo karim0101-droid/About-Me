@@ -54,7 +54,7 @@ Multi-stage perception pipeline for robotics applications using RGB-D data and C
 ROS-based simulation of a dual-robot industrial workcell with coordinated task execution.
 
 - Built custom URDF-based robot setup
-- Implemented inverse kinematics and motion planning
+- Implemented inverse kinematics
 - Developed a practical launch and visualisation workflow
 
 **Tech:** ROS, Gazebo  
